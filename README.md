@@ -17,6 +17,6 @@ The objective of this project was to stress-test the original findings and evalu
 * Minor variances in final metrics are attributed to random state initialization over non-disclosed PCA.
 
 ## 📁 Repository Structure
-* `notebooks/`: Contains the fully documented step-by-step Google Colab execution pipeline.
-* `src/`: Production-ready Python scripts for the model architecture.
+* `ML_Reproducibility_study_MJ`: Contains the fully documented step-by-step Google Colab execution pipeline.
+* `ml_reproducibility_study`: Production-ready Python scripts for the model architecture.
 * `requirements.txt`: Environment configuration for local replication.
